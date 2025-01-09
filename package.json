@@ -35,10 +35,10 @@
   "author": "_Kerman",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KermanX/vite-plugin-ms-clarity"
+    "url": "git+https://github.com/Foundant/vite-plugin-ms-clarity"
   },
-  "readme": "https://github.com/KermanX/vite-plugin-ms-clarity#readme",
-  "bugs": "https://github.com/KermanX/vite-plugin-ms-clarity/issues",
+  "readme": "https://github.com/Foundant/vite-plugin-ms-clarity#readme",
+  "bugs": "https://github.com/Foundant/vite-plugin-ms-clarity/issues",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.5",

@@ -1,7 +1,11 @@
 {
   "name": "vite-plugin-ms-clarity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vite plugin for Microsoft Clarity.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/foundant"
+  },
+  "license": "UNLICENSED",
   "keywords": [
     "clarity",
     "vite-plugin"
@@ -39,7 +43,6 @@
   },
   "readme": "https://github.com/Foundant/vite-plugin-ms-clarity#readme",
   "bugs": "https://github.com/Foundant/vite-plugin-ms-clarity/issues",
-  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.5",
     "tsup": "^8.0.1",

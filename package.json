@@ -46,6 +46,6 @@
     "typescript": "^5.3.3"
   },
   "peerDependencies": {
-    "vite": "^4 || ^5"
+    "vite": "^4 || ^5 || ^6"
   }
 }
